@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reserva</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="correo">CORREO ELECTRONICO</string>
+    <string name="telefono">TELEFONO</string>
+    <string name="fechaInicio">FECHA DE INICIO</string>
+    <string name="fechaFin">FECHA FIN</string>
+    <string name="noPersonas">NUMERO DE PERSONAS</string>
+    <string name="reg">RESERVA</string>
+    <string name="regresa">VOLVER</string>
+</resources>
